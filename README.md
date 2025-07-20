@@ -1,0 +1,1 @@
+Sentiment classifier using machine learning and NLP techniques. Applied data preprocessing, TF-IDF vectorization, and trained models like Logistic Regression and Naive Bayes to classify text as positive, negative, or neutral.
